@@ -1,0 +1,7 @@
+streamlit>=1.38
+torch
+transformers==4.46.3
+peft==0.13.2
+accelerate
+bitsandbytes>=0.43.3
+safetensors
