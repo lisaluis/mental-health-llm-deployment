@@ -1,8 +1,6 @@
-streamlit>=1.38,<2
 torch==2.5.1
 transformers==4.46.3
 tokenizers==0.20.3
 peft==0.13.2
 accelerate==1.0.1
 bitsandbytes==0.45.5
-safetensors>=0.4.5
